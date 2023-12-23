@@ -16,3 +16,5 @@ while(cap.isOpened()):
 cap.release()
 cv2.destroyAllWindows()
 # Video
+https://github.com/NikhilD2003/Video--Frame-counter/assets/150776453/7fe17841-6e59-43d5-9539-3161d9cab827
+# Frames
